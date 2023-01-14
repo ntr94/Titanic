@@ -13,3 +13,4 @@ The project consists of using a csv file of the Titanic and from there cleaning 
 I use Streamlit as presentation mode to be able to see the graphics of the titanic.
 
 <img src="Streamlit_1.PNG" width="1000">
+<img src="Streamlit_2.PNG" width="1000">
