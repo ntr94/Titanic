@@ -11,3 +11,4 @@ The project consists of using a csv file of the Titanic and from there cleaning 
 
 ## Streamlit
 I use Streamlit as presentation mode to be able to see the graphics of the titanic.
+https://github.com/ntr94/Titanic/blob/main/image%20(2).png
