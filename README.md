@@ -1,3 +1,5 @@
+<img src="titanic_intro.jpg" width="1000">
+
 # TITANIC
 Basic Data Analysis of Titanic Passenger Dataset 
 
