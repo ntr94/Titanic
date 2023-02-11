@@ -1,15 +1,6 @@
 
 <img src="titanic_intro.jpg" style="display: block; margin: auto;">
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Bandera de Gran Bretaña</title>
-</head>
-<body>
-  <p>Aquí está el emoticono de la bandera de Gran Bretaña: <span>&#127465;</span></p>
-</body>
-</html>
+🇬🇧
   
 # TITANIC
 Basic Data Analysis of Titanic Passenger Dataset 
