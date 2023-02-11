@@ -4,10 +4,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-
-
-
-
 # ---------------------------------PAGE SETUP--------------------------------------
 
 
@@ -15,7 +11,7 @@ st.set_page_config(page_title='TITANIC APP', layout='wide',page_icon='🚢')
 
 
 # ---------------------------------TITANIC DATA--------------------------------------
-titanic = pd.read_csv(r'C:\Users\nacho\OneDrive\Documentos\Programacion\VSCode\samplerepo\Modulo 1\13-Trabajo Modulo 1\Ejercicio 3\titanic_clean.csv')
+titanic = pd.read_csv(titanic_clean.csv')
 
 #----------------------SIDEBAR------------------------------------
 
