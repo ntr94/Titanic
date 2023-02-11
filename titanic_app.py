@@ -11,7 +11,7 @@ st.set_page_config(page_title='TITANIC APP', layout='wide',page_icon='🚢')
 
 
 # ---------------------------------TITANIC DATA--------------------------------------
-titanic = pd.read_csv(titanic_clean.csv')
+titanic = pd.read_csv('titanic_clean.csv')
 
 #----------------------SIDEBAR------------------------------------
 
