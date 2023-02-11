@@ -13,6 +13,7 @@ In the future I will upload more cool things.
 ## Explication
 The project consists of using a csv file of the Titanic and from there cleaning the data and drawing graphs on the data.
 
+
 ## Streamlit
 I use Streamlit as presentation mode to be able to see the graphics of the titanic.
 
