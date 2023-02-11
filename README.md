@@ -1,6 +1,6 @@
 
 <img src="titanic_intro.jpg" style="display: block; margin: auto;">
-🇬🇧
+<img src="<img src="titanic_intro.jpg" style="display: block; margin: auto;">" style="display: block; margin: auto;">
   
 # TITANIC
 Basic Data Analysis of Titanic Passenger Dataset 
