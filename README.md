@@ -1,5 +1,5 @@
 
-<img src="front_page/portada_titanic.png" style="display: block; margin: auto;">
+<img src="portada_titanic.png" style="display: block; margin: auto;">
 
   
 # TITANIC
