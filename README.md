@@ -19,3 +19,11 @@ I use Streamlit as presentation mode to be able to see the graphics of the titan
 
 <img src="Streamlit_1.PNG" width="1000">
 <img src="Streamlit_2.PNG" width="1000">
+
+## Links
+
+[Notebook](https://github.com/ntr94/Titanic/blob/main/Titanic_notebook.ipynb)
+
+[Streamlit code](https://github.com/ntr94/Titanic/blob/main/titanic_app.py)
+
+[Streamlit](https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/)
