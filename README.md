@@ -1,7 +1,7 @@
 
 <img src="front_page/portada_titanic.PNG" style="display: block; margin: auto;">
 
-  :uk:
+  🇬🇧:
   
 # TITANIC
 Basic Data Analysis of Titanic Passenger Dataset 
