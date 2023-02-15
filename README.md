@@ -26,4 +26,4 @@ I use Streamlit as presentation mode to be able to see the graphics of the titan
 
 [Streamlit code](https://github.com/ntr94/Titanic/blob/main/titanic_app.py)
 
-[Streamlit](https://ntr94-madrid-eda-madrid-app-16ynzo.streamlit.app/)
+[Streamlit](https://ntr94-titanic-titanic-app-gpfrjx.streamlit.app/)
